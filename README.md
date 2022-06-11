@@ -42,7 +42,7 @@ You have one way to run this project:
 ## Notes important to read:
    - If you want to change the directory of the resources change the variable *FILE_PATH* and *SAVE_PATH* (using the SAME name) on top of the code.
    - If you want to see prints of some steps change the respectively variables to true on top of the code.
-   - The program can takes a little minutes (especially if your PC is a potato).
+   - The program can take a little minutes (especially if your PC is a potato).
    - These musics are from the following source: http://mir.dei.uc.pt/downloads.html
 
 ## Authors:

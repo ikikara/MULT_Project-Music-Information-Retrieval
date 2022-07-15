@@ -46,6 +46,6 @@ You have one way to run this project:
    - These musics are from the following source: http://mir.dei.uc.pt/downloads.html
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [António Correia](https://github.com/antcorreia)
 - [Pedro Martins](https://github.com/PedroMartinsUC)
